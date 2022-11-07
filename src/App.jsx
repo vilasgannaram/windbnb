@@ -1,8 +1,12 @@
+import Header from "./components/layout/Header";
+import Main from "./components/layout/Main";
+
 function App() {
   return (
-    <h1 className="text-center font-mono font-bold  uppercase leading-3 text-red-900 underline  ">
-      Hello world!
-    </h1>
+    <>
+      <Header />
+      <Main />
+    </>
   );
 }
 
