@@ -17,10 +17,10 @@ module.exports = {
       colors: {
         // orange
         orange: "#EB5757",
-        orangeLight: "#EB575772",
+        orange1: "#EB575772",
 
         // white
-        white: "#F2F2F2",
+        white1: "#F2F2F2",
 
         // gray
         gray1: "#333333",
